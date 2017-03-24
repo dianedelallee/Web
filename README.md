@@ -7,6 +7,8 @@ List of the helpers
    * put a zipcode in a form and it will give you the city.
 * GestionPassword
    * Check if password it safe, and verify it twice
+* GestionBackgroundHour
+   * Change the background image of a page according to the hour of the days
    
 Technologies   
 -------
