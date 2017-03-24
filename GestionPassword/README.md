@@ -1,5 +1,7 @@
 # GestionPassword
 A simple password management tools.
+You can hide and show the password thanks to button.
+The tool checks if your password are similar and inform you if pattern is not respected
 
 Uses
 ------- 
@@ -7,7 +9,7 @@ Download the code to your Desktop.
 Open the page Password.html to your favorite Browser.
 Play with this quick form.
 
-You can use diferent regex :
+You can use different regex :
 
 1. "^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[$@$!%*?&])[A-Za-z\d$@$!%*?&]{8,}"
    * 1 Uppercase
