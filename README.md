@@ -7,7 +7,7 @@ List of the helpers
    * put a zipcode in a form and it will give you the city.
    
 
-![ZipCode](https://github.com/dianedelallee/Web/images/zipcode.png "Zip code illustration")
+![ZipCode](https://github.com/dianedelallee/Web/images/zipcode.png)
 
 
 * GestionPassword
