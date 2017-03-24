@@ -1,7 +1,7 @@
 # Web tools  :octocat:
 A lot of helpers to improve your website.
 
-##List of the helpers
+## List of the helpers
 ------- 
 ### [GestionZipCode](https://github.com/dianedelallee/Web/tree/master/GestionZipCode)
    Put a zipcode in a form and it will give you the city.
@@ -11,7 +11,7 @@ A lot of helpers to improve your website.
 </p>
 
 
-### GestionPassword
+### [GestionPassword](https://github.com/dianedelallee/Web/tree/master/GestionPassword)
    Check if password it safe, and verify it twice.
    
 <p align="center">
@@ -19,14 +19,14 @@ A lot of helpers to improve your website.
 </p>
 
 
-### GestionBackgroundHour
+### [GestionBackgroundHour](https://github.com/dianedelallee/Web/tree/master/GestionBackgroundHour)
    Change the background image of a page according to the hour of the days.
    
 <p align="center">
 <img src="https://github.com/dianedelallee/Web/blob/master/images/backgroundHour.png" width="600"  />
 </p>
 
-### LettrageTerminal
+### [LettrageTerminal](https://github.com/dianedelallee/Web/tree/master/LettrageTerminal)
    Text effect as a terminal. You can choose, text and color.
    
 <p align="center">
