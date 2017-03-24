@@ -15,11 +15,11 @@ If you want to test with other country you have to make to changes.
    * In the function getCityFromZip, change the 4th lines by your country
    * You can fin all the countries at http://zippopotam.us/
  
-Change rules on formulaire to accept correct length
+2. Change rules on formulaire to accept correct length
    * Always in myScript.js
    * On the line 6, chang the length of the zip code. For example for France, put 5.
    
-Test your code
+3. Test your code
    * Saves your changes
    * Restart the page on the browser
    * Play with your country zip
