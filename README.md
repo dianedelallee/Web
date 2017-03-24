@@ -6,9 +6,11 @@ List of the helpers
 * GestionZipCode
    * put a zipcode in a form and it will give you the city.
 * GestionPassword
-   * Check if password it safe, and verify it twice
+   * Check if password it safe, and verify it twice.
 * GestionBackgroundHour
-   * Change the background image of a page according to the hour of the days
+   * Change the background image of a page according to the hour of the days.
+* LettrageTerminal
+   * Text effect as a terminal. You can choose, text and color.
    
 Technologies   
 -------
