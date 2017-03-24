@@ -1,5 +1,5 @@
 # GestionZipCode
-A lot of helper to improve your website.
+Helper to use zip code and find the city.
 
 Uses
 ------- 
