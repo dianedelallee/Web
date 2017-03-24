@@ -8,6 +8,7 @@ List of the helpers
    
 
 ![ZipCode](https://github.com/dianedelallee/Web/blob/master/images/zipcode.png)
+<img src="https://github.com/dianedelallee/Web/blob/master/images/zipcode.png" data-canonical-src="https://github.com/dianedelallee/Web/blob/master/images/zipcode.png" width="200" height="400" />
 
 
 * GestionPassword
