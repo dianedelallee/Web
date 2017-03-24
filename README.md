@@ -14,7 +14,7 @@ List of the helpers
 * GestionPassword
    * Check if password it safe, and verify it twice.
    
-   <p align="center">
+<p align="center">
 <img src="https://github.com/dianedelallee/Web/blob/master/images/password.png" width="600"  />
 </p>
 
@@ -22,14 +22,14 @@ List of the helpers
 * GestionBackgroundHour
    * Change the background image of a page according to the hour of the days.
    
-   <p align="center">
+<p align="center">
 <img src="https://github.com/dianedelallee/Web/blob/master/images/backgroundHour.png" width="600"  />
 </p>
 
 * LettrageTerminal
    * Text effect as a terminal. You can choose, text and color.
    
-   <p align="center">
+<p align="center">
 <img src="https://github.com/dianedelallee/Web/blob/master/images/texteffect.png" width="600"  />
 </p>
    
