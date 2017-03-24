@@ -10,16 +10,16 @@ Play with this quick form.
 This formulaire works with Swiss Zip code. 
 If you want to test with other country you have to make to changes.
 
-1. Change the country on which you want to search
+Change the country on which you want to search
    *Go to myScript.js
    *In the function getCityFromZip, change the 4th lines by your country
    *You can fin all the countries at http://zippopotam.us/
  
-2. Change rules on formulaire to accept correct length
+Change rules on formulaire to accept correct length
    *Always in myScript.js
    *On the line 6, chang the length of the zip code. For example for France, put 5.
    
-3. Test your code
+Test your code
    *Saves your changes
    *Restart the page on the browser
    *Play with your country zip
