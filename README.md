@@ -5,6 +5,12 @@ List of the helpers
 ------- 
 * GestionZipCode
    * put a zipcode in a form and it will give you the city.
+   
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
 * GestionPassword
    * Check if password it safe, and verify it twice.
 * GestionBackgroundHour
